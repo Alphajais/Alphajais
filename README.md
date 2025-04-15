@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building crea
 - 🌱 I’m currently learning **React**, **Tailwind CSS**, and diving deeper into **JavaScript**
 - 💻 I’ve worked on projects like [Resume Builder](https://github.com/Alphajais/Resume-Builder)
 - 🔧 Exploring full-stack development and working on personal projects to sharpen my skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link) • [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atul-jaiswal-101958226/) • [Email](atuljaiswal0912@gmail.com)
 
 ## 🛠️ Tech Stack
 
