@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alpha Jaiswal!
+# 👋 Hi there, I'm Atul Jaiswal!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building creative and impactful web applications.
 
